@@ -1,0 +1,170 @@
+ body {
+ 	display: block;
+ 	margin: 0px;
+ 	text-align: center;
+ 	font-family: 'Merriweather Sans', sans-serif;
+
+}
+       h1 {margin-top: 0;
+           font-size: 400%;
+           position: relative;
+           right: 200px;
+           bottom: 200px;
+           color: white;
+            }
+
+       h2 {
+           color: #022c43;
+         }
+       h3 {
+           color: #1b262c;
+         }
+       p  {
+           color: #1b262c;
+         }
+       .welcome {
+                 font-family: 'Sacramento', cursive;
+                 color: white; 
+                 font-size: 400%;
+                 position: relative;
+                 top: 170px;
+                 right: 50px
+                 }  
+       hr {
+          border:dotted #cccccc 6px;
+          border-bottom: none;
+          width: 4%;
+       }
+      .pencil  {
+                width: 40%;
+                position: relative;
+                top: 50px;
+                left: 400px
+}
+.our-work {
+  background-color:#fecd08;
+  -webkit-border-top-left-radius:28px;
+  -moz-border-radius-topleft:28px;
+  border-top-left-radius:28px;
+  -webkit-border-top-right-radius:28px;
+  -moz-border-radius-topright:28px;
+  border-top-right-radius:28px;
+  -webkit-border-bottom-right-radius:28px;
+  -moz-border-radius-bottomright:28px;
+  border-bottom-right-radius:28px;
+  -webkit-border-bottom-left-radius:28px;
+  -moz-border-radius-bottomleft:28px;
+  border-bottom-left-radius:28px;
+text-indent:0;
+  display:inline-block;
+  color:#1b262c;
+  font-family:arial;
+  font-size:17px;
+  font-weight:bold;
+  font-style:normal;
+height:52px;
+  line-height:52px;
+width:114px;
+  text-decoration:none;
+  text-align:center;
+}.our-work:hover {
+  background-color:#3fc4f0;
+}
+ .our-work {position: absolute; bottom: 150px; right: 710px;
+            
+            }
+
+       .skill-row {
+       	           width: 50%;
+                   margin: 10px auto 100px auto;
+                   text-align: left;
+                   line-height: 2;
+       }
+       .graphics {
+       	          width: 25%;
+       	          float: left;
+       	          margin-right: 30px;
+
+                  }
+       .web-design {width: 25%;
+                    float: right;
+                    margin-left: 25px;
+                    }
+
+       .top-container {
+	            background-color: #1b262c;
+              position: relative;
+              margin: auto;
+              padding-top: 10px;
+              padding-bottom: 10px;
+              width: 100%
+              height: auto;
+             
+}
+       .middle-container {background-color: #fecd08;
+                          padding-bottom: 50px;
+                          padding-right: 50px
+        }
+       .bottom-container {
+                          background-color: #1b262c;
+                          padding: 50px 0 20px; 
+                          }
+
+       .hi {
+       	    width: 7%;
+            margin-top: 7%;
+            }
+       .hi-description {margin-bottom: 7%}
+       .hi-heading {margin-top: 2%}
+       .skill-heading {
+       	               margin-top: 7%;
+                       margin-bottom: 5%
+                       }
+       .git {margin-top: 3%;
+            
+             }  
+       .contact-me {width: 70%;
+                    margin: 40px auto 60px}  
+       a {color: white}
+       .copyright {color: white;}
+.btn {
+  background-color:#3fc4f0;
+  -webkit-border-top-left-radius:23px;
+  -moz-border-radius-topleft:23px;
+  border-top-left-radius:23px;
+  -webkit-border-top-right-radius:23px;
+  -moz-border-radius-topright:23px;
+  border-top-right-radius:23px;
+  -webkit-border-bottom-right-radius:23px;
+  -moz-border-radius-bottomright:23px;
+  border-bottom-right-radius:23px;
+  -webkit-border-bottom-left-radius:23px;
+  -moz-border-radius-bottomleft:23px;
+  border-bottom-left-radius:23px;
+text-indent:0;
+  display:inline-block;
+  color:#ffffff;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size:17px;
+  font-weight:bold;
+  font-style:normal;
+height:49px;
+  line-height:49px;
+width:105px;
+  text-decoration:none;
+  text-align:center;
+}.btn:hover {
+  background-color:#42deef;
+}.btn:active {
+  position:relative;
+  top:1px;}
+ .insta {
+         width: 3%
+ } 
+.gmail {
+         width: 3%;
+         margin-right: 5%
+}
+@media (min-width: 600px;) {
+#pencil {width:%}
+}

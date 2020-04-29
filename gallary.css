@@ -1,0 +1,19 @@
+body {display: block;
+	background-color: #1b262c;
+      margin: 0;
+      text-align: center;
+      font-family: 'Merriweather Sans', sans-serif;  
+        }
+        h1 {font-family: 'Merriweather Sans', sans-serif;
+            color: white;
+              }
+.gallery {margin: 10px 50px}
+.gallery img{width: 230px;
+             padding: 5px;
+             filter: opacity(50%);
+             transition: 1s;
+             }
+.gallery img:hover {
+	         filter: opacity(100%);
+	         transform:scale(1.5);
+} 
